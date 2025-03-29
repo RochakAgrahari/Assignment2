@@ -29,20 +29,7 @@ Framer Motion – For smooth animations
 
 Vercel/Netlify – For deployment
 
-Project Structure
 
-data-query-dashboard
-│── src/
-│   ├── components/
-│   │   ├── QueryInput.jsx       # AI-powered query input field
-│   │   ├── QueryResults.jsx     # Displays results with a bar chart
-│   ├── store/
-│   │   ├── querySlice.js        # Manages queries using Redux
-│   ├── App.js                   # Main application logic
-│   ├── index.js                 # React app root
-│── public/
-│── package.json
-│── README.md
 
 How It Works
 Type a business question like "Show sales trends"
