@@ -71,6 +71,6 @@ Submit a Pull Request
 Contact
 GitHub: https://github.com/RochakAgrahari/
 
-Live Demo: your-deployed-link
+Live Demo: https://storied-kelpie-143cf7.netlify.app/
 
 This README.md keeps things clear, professional, and to the point. Let me know if you need any further refinements.
